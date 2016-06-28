@@ -1,0 +1,13 @@
+#corpoForm {
+    margin-bottom: 20%;
+    overflow: scroll;
+
+}
+#btnUpdate {
+    display: none;
+}
+
+#erros {
+
+    display: none;
+}
