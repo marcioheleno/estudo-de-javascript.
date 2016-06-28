@@ -10,6 +10,10 @@
           <option name="url" value="git@github.com:EthanRBrown/learning-javascript-3e.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:marcioheleno/estudo-de-javascript..git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/var/www/html" />
